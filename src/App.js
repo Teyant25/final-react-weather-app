@@ -8,7 +8,7 @@ export default function App() {
       <footer>
         This project was coded by Tya Kent and is open-sourced on {""}{" "}
         <a
-          href="https://github.com/Teyant245/final-react-weather-app"
+          href="https://github.com/Teyant25/final-react-weather-app"
           target="_blank"
         >
           Github
