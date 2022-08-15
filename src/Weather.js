@@ -32,6 +32,7 @@ export default function Weather() {
             <img
               src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
               alt="Partly Cloudy"
+              className="float-left"
             />
 
             <span className="temperature">74</span>
